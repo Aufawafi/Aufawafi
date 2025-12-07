@@ -5,16 +5,16 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&height=80&section=header&reversal=false&text=Hello%20Everyone!!&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&height=80&section=header&reversal=false&text=Welcome!!&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
 
 ###
 
-<h1 align="left">👨‍💼  About Me:</h1>
+<h1 align="left">😎 About Me:</h1>
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">Halo! Aku Aufa, manusia asal bekasi yang kalau ngoding keliatan diem, tapi di dalam hati lagi debug kehidupan juga 🙃<br><br>🎓 Aku Mahasiswa S5 yang berusaha waras sambil nyicil tugas, UTS, UAS, dan realita<br>💻 Programmer pemula tapi totalitas, sekali ngerjain bisa lupa makan, tapi tetap inget buat commit (walau sering typo)<br>🧘 Soft spoken + sabar, bahkan pas kode error 17x (muka calm, hati overclock)<br>🧩 Suka ngulik hal baru, biar otak tetap update dan nggak crash di tengah deadline<br>🚶 Hobi jalan-jalan, karena inspirasi kadang nongol di mall, bukan di terminal<br>🏋️ Suka olahraga, walau push-up aja kadang kalah sama push update<br>🤝 Suka colaborate santai. Butuh teman ngoding yang nggak galak? ya itu aku<br>🌞 Always optimis, insecure?? Not my style<br><br>🔍 Quotes dikit:<br>"Hidup itu projek jangka panjang, commit aja dulu."</p>
 
 ###
 
@@ -125,7 +125,7 @@
 
 ###
 
-<h2 align="left">🎮 Play Games With Me:</h2>
+<h1 align="left">🎮 Play Games With Me:</h1>
 
 ###
 
