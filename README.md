@@ -113,8 +113,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aufawafi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&order=2&custom_title=Most%20Used%20Languages%20" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Aufawafi&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=10&order=3" height="221" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aufawafi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&order=2&custom_title=Most%20Used%20Languages%20" height="200" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aufawafi&theme=tokyo-night&radius=11&hide_title=false&hide_border=true&area=true" height="" alt="activity-graph graph"  />
 </div>
 
