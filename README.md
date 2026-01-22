@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Halo! Gua Aufa, manusia asal bekasi yang kalau ngoding keliatan diem, tapi di dalam hati lagi debug kehidupan juga🙃<br><br>👋😁 Gua Mahasiswa Semester atas yang berusaha waras sambil nyicil tugas, UTS, UAS, dan realitas<br>😌👌 Programmer pemula yang selalu totalitas, sekali ngerjain bisa lupa makan, tapi tetap inget buat commit (walau sering typo)<br>🤓☝️ Soft spoken & chill abiezz, bahkan pas kena error 17x (muka calm, hati overclock)<br>✍️🧐 Suka ngulik hal baru, biar otak update terus dan ngga crash di tengah deadline<br>😄🤌 Hobi jalan-jalan, karena inspirasi kadang nongol di jalan, bukan di terminal<br>💪😮‍💨 Gua juga suka olahraga, walaupun push-up kadang kalah sama push update<br>🤝😎 Suka colaborate/diskusi santai. Butuh teman ngoding yang supportive, solutif dan ga galak? ya itu gua<br>😏🤙 Always percaya diri & optimis, insecure?? Not my style<br><br>😗🤙 Quotes dikit biar ga kaku:<br>"Hidup itu project jangka panjang, commit aja dulu"</p>
+<p align="left">Halo! Gua Aufa, manusia asal bekasi yang kalau ngoding keliatan diem, tapi di dalam hati lagi debug kehidupan juga🙃<br><br>👋😁 Gua Mahasiswa Semester atas yang berusaha waras sambil nyicil tugas, UTS, UAS, dan realitas<br>😌👌 Programmer pemula yang selalu totalitas, sekali ngerjain bisa lupa makan, tapi tetap inget buat commit (walau sering typo)<br>🤓☝️ Soft spoken & chill abiezz, bahkan pas kena error 17x (muka calm, hati overclock)<br>✍️🧐 Suka ngulik hal baru, biar otak update terus dan ngga crash di tengah deadline<br>😄🤌 Hobi jalan-jalan, karena inspirasi kadang nongol di jalan, bukan di terminal<br>💪😮‍💨 Gua juga suka olahraga, walaupun push-up kadang kalah sama push update<br>🤝😎 Suka colaborate/diskusi santai. Butuh teman ngoding yang supportive, solutif dan ga galak? ya itu gua<br>😏🤙 Always percaya diri & optimis, insecure?? Not my style<br><br>😗🤙 Quotes dikit biar ga kaku:<br>"Hidup itu project jangka panjang, commit aja dulu."</p>
 
 ###
 
@@ -113,7 +113,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aufawafi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&order=2&custom_title=Most%20Used%20Languages%20" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fiiokeeyy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2&custom_title=Most%20Used%20Languages%20" height="200" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fiiokeeyy&theme=tokyo-night&radius=11&hide_title=false&hide_border=true&area=true" height="" alt="activity-graph graph"  />
 </div>
 
@@ -124,9 +124,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aufawafi/Aufawafi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aufawafi/Aufawafi/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Aufawafi/Aufawafi/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fiiokeeyy/Fiiokeeyy/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fiiokeeyy/Fiiokeeyy/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Fiiokeeyy/Fiiokeeyy/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
